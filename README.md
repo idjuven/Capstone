@@ -40,3 +40,6 @@ time: (numeric) hours after start of test
 
 **Result**
 Starbucks_Capstone_notebook.ipynb
+
+**Blog**
+https://medium.com/@shenl024_61906/study-of-the-starbucks-promotional-program-data-fef836a520fd
