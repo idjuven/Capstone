@@ -43,7 +43,6 @@ Starbucks_Capstone_notebook.ipynb
 
 
 **Blog**
-
 https://medium.com/@shenl024_61906/using-data-science-to-understand-the-starbucks-promotional-program-fef836a520fd
 
 **Acknowledgement**
