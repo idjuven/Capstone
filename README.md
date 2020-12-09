@@ -47,7 +47,10 @@ https://medium.com/@shenl024_61906/using-data-science-to-understand-the-starbuck
 
 **References**
 
+https://towardsdatascience.com/optimizing-hyperparameters-in-random-forest-classification-ec7741f9d3f6
+
 https://towardsdatascience.com/running-random-forests-inspect-the-feature-importances-with-this-code-2b00dd72b92e
+
 https://towardsdatascience.com/decision-trees-and-random-forests-df0c3123f991
 
 **List of Libraries**
