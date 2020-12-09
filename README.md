@@ -38,9 +38,17 @@ amount: (numeric) money spent in "transaction"
 reward: (numeric) money gained from "offer completed"
 time: (numeric) hours after start of test
 
-**Results**
+**Results and Conclusion**
 
 Starbucks_Capstone_notebook.ipynb
+
+After careful data cleaning and modeling, I have found deep insights from this Starbucks promotion experiment. 
+I found additional demographic information including the membership year, age, sex and income distribution.
+
+In addition, I built a machine learning model to determine which is the most important factor in determining the offer. 
+I found "the total amount" plays key role in the offer decision. 
+Other important factors include "income", " duration" and "reward". 
+On the other hand, I found limited relation between customer sex, mobile or web and offer decisions.
 
 
 **Blog**
