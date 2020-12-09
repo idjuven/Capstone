@@ -39,10 +39,12 @@ reward: (numeric) money gained from "offer completed"
 time: (numeric) hours after start of test
 
 **Results**
+
 Starbucks_Capstone_notebook.ipynb
 
 
 **Blog**
+
 https://medium.com/@shenl024_61906/using-data-science-to-understand-the-starbucks-promotional-program-fef836a520fd
 
 **References**
@@ -54,6 +56,7 @@ https://towardsdatascience.com/running-random-forests-inspect-the-feature-import
 https://towardsdatascience.com/decision-trees-and-random-forests-df0c3123f991
 
 **List of Libraries**
+
 import pandas as pd
 
 import numpy as np
